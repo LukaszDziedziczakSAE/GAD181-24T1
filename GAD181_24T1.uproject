@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E48F6AAA-4A7F-39D9-FCDE-EB869EDB259C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GAD181_24T1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
